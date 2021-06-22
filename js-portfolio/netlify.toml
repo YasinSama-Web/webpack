@@ -1,0 +1,3 @@
+[build]
+    publish = "public_html/js" 
+    command = "npm run build" 
